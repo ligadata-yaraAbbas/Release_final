@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ligadata-yaraAbbas/Release_final/compare/v1.0.0...v1.0.1) (2025-02-18)
+
+
+### Bug Fixes
+
+* update the file ([780f19a](https://github.com/ligadata-yaraAbbas/Release_final/commit/780f19a9b8f672ea7c81477a4305a7e888f15843))
+
 # 1.0.0 (2025-02-18)
 
 
